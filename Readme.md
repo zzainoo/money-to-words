@@ -39,6 +39,18 @@ pip install money-To-words-Converter
 
 
 
+## مثال
+
+
+```sh
+import money_to_words as Converter
+
+price = Converter.Convert(7999113555222)
+
+print(price)
+```
+
+
 ## الترخيص
 
 MIT
